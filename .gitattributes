@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.parquet.snappy filter=lfs diff=lfs merge=lfs -text
